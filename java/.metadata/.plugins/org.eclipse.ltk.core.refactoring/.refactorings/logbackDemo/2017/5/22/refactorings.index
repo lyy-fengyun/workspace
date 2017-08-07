@@ -1,0 +1,13 @@
+1496116926209	Delete element
+1496116930250	Delete element
+1496116946474	Delete element
+1496193263757	Rename package 'com.cmsz.cmup.commons.logging.alarm'
+1496193276482	Rename package 'com.cmsz.cmup.commons.logging.system'
+1496193303973	Rename package 'com.cmsz.cmup.commons.utils'
+1496193315338	Rename package 'com.cmsz.cmup.commons.logging.utils'
+1496193325937	Rename package 'com.cmsz.cmup.commons.logging.handler'
+1496193343500	Rename package 'com.lyy.logbackdemo'
+1496193456348	Rename package 'com.cmsz.monitor.commons.logging.utils'
+1496193478407	Rename package 'com.cmsz.monitor.commons.utils'
+1496198188377	Extract local variable 'logbackDemo'
+1496198244848	Delete element

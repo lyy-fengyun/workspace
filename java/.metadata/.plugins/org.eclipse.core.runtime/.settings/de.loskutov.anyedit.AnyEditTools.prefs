@@ -1,0 +1,10 @@
+base64SplitLine=true
+disallowedInPath=\ \r\n"'*?><|\=(){};&$,%@
+eclipse.preferences.version=1
+incudeDerivedResources=true
+org.eclipse.jdt.ui.editor.tab.width=4
+replaceAllTabs=true
+saveAndAddLine=true
+saveAndConvert=true
+saveAndFixLineDelimiters=true
+useWorkspaceForSearch=true

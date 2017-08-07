@@ -1,0 +1,4 @@
+content-types/org.eclipse.core.runtime.text/charset=utf-8
+content-types/org.eclipse.jpt.common.core.content.jar/file-extensions=war
+eclipse.preferences.version=1
+line.separator=\n

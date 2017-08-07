@@ -1,0 +1,30 @@
+2017-05-23 10:10:08 [WARN]-[org.apache.activemq.transport.failover.FailoverTransport] Failed to connect to [tcp://localhost:61616] after: 10 attempt(s) continuing to retry.
+2017-05-23 10:29:26 [WARN]-[org.apache.activemq.transport.failover.FailoverTransport] Failed to connect to [tcp://localhost:61616] after: 10 attempt(s) continuing to retry.
+2017-05-23 10:33:42 [WARN]-[org.apache.activemq.transport.failover.FailoverTransport] Failed to connect to [tcp://localhost:61616] after: 20 attempt(s) continuing to retry.
+2017-05-23 10:35:15 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:35:35 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:35:50 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:36:02 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:36:11 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:36:33 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:37:08 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:37:14 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:37:32 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:39:44 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:40:15 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:41:12 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:44:50 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:46:40 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:48:11 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:49:55 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:50:04 [INFO]-[org.apache.activemq.transport.failover.FailoverTransport] Successfully connected to tcp://localhost:61616
+2017-05-23 10:55:26 [WARN]-[org.apache.activemq.transport.failover.FailoverTransport] Transport (tcp://localhost/127.0.0.1:61616@59118) failed, attempting to automatically reconnect
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.activemq.openwire.OpenWireFormat.unmarshal(OpenWireFormat.java:258)
+	at org.apache.activemq.transport.tcp.TcpTransport.readCommand(TcpTransport.java:221)
+	at org.apache.activemq.transport.tcp.TcpTransport.doRun(TcpTransport.java:213)
+	at org.apache.activemq.transport.tcp.TcpTransport.run(TcpTransport.java:196)
+	at java.lang.Thread.run(Thread.java:745)
+2017-05-23 10:56:53 [WARN]-[org.apache.activemq.transport.failover.FailoverTransport] Failed to connect to [tcp://localhost:61616] after: 10 attempt(s) continuing to retry.
+2017-05-23 10:56:57 [WARN]-[org.apache.activemq.transport.failover.FailoverTransport] Failed to connect to [tcp://localhost:61616] after: 10 attempt(s) continuing to retry.

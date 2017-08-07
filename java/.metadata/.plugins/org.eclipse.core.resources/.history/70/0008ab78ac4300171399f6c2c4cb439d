@@ -1,0 +1,32 @@
+/**
+ * Project Name:logbackDemo
+ * File Name:LogbackDemoTest.java
+ * Package Name:com.lyy.logbackdemo
+ * Date:2017年5月22日上午9:59:54
+ * Copyright (c) 2017, fengyun.lyy@foxmail.com All Rights Reserved.
+ *
+*/
+
+package com.lyy.logbackdemo;
+
+import org.junit.Test;
+
+/**
+ * ClassName:LogbackDemoTest <br/>
+ * Function: TODO ADD FUNCTION. <br/>
+ * Reason:   TODO ADD REASON. <br/>
+ * Date:     2017年5月22日 上午9:59:54 <br/>
+ * @author   lenovo
+ * @version
+ * @since    JDK 1.7
+ * @see
+ */
+public class LogbackDemoTest {
+
+	@Test
+	public void testDemo() {
+		LogbackDemo demo = new LogbackDemo();
+		demo.demo();
+	}
+
+}

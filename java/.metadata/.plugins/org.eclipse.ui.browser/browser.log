@@ -1,0 +1,9 @@
+
+5月 12, 2017 12:44:42.02 NEW SESSION
+5月 12, 2017 12:44:42.27 [0512/124439.754:ERROR:exception_snapshot_win.cc(87)] thread ID 36948 not found in process
+5月 12, 2017 12:49:23.61 [34096:28820:0512/124923.614:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+5月 12, 2017 12:50:17.15 [34096:28820:0512/125017.157:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+5月 12, 2017 12:51:30.30 [34096:28820:0512/125130.301:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+5月 12, 2017 12:53:28.96 [34096:28820:0512/125328.962:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+5月 12, 2017 12:57:56.19 [34096:28820:0512/125756.192:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+5月 12, 2017 13:06:25.64 [34096:28820:0512/130625.642:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.

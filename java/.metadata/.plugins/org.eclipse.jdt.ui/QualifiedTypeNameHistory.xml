@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.cmsz.cmup.commons.logging.system.SystemLogHandler"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+<fullyQualifiedTypeName name="com.w3cschool.ide.App"/>
+<fullyQualifiedTypeName name="org.slf4j.Logger"/>
+<fullyQualifiedTypeName name="com.cmsz.cmup.commons.logging.mapper.AlarmLogBean"/>
+<fullyQualifiedTypeName name="com.cmsz.cmup.commons.logging.alarm.AlarmLogHandler"/>
+<fullyQualifiedTypeName name="com.lyy.logbackdemo.LogbackDemo"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="java.lang.ThreadLocal"/>
+<fullyQualifiedTypeName name="com.lyy.Factory.Shape"/>
+<fullyQualifiedTypeName name="com.lyy.Factory.Square"/>
+<fullyQualifiedTypeName name="com.lyy.Factory.ShapeFactory"/>
+<fullyQualifiedTypeName name="com.lyy.Factory.Rectangle"/>
+<fullyQualifiedTypeName name="com.cmsz.monitor.logbackdemo.LogbackDemo"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item value="LOCAL_INSTALLATION" key="gradle_distribution_type"/>
+		<item value="true" key="use_default_location"/>
+		<item value="D:\gradle-3.5" key="gradle_distribution_configuration"/>
+		<item value="E:\workspace\java\logbackDemo" key="project_location"/>
+	</section>
+</section>

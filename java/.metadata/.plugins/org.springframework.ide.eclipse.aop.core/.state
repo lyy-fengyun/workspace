@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="oc-common"/>
+<aop-project name="oc-bizcm"/>
+<aop-project name="oc-core"/>
+</aop-reference-model>
